@@ -113,6 +113,12 @@ h1 {
 }
 
 /* mobile-design */
+@media (min-width: 715px) {
+    html {
+        font-size: 14px;
+    }
+}
+
 @media (max-width: 714px) {
     html {
         font-size: 14px;
